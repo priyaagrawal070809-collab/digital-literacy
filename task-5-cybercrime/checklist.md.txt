@@ -1,0 +1,23 @@
+#TASK-5 CHECKLIST
+
+Stay Safe Online Checklist
+College students in India face rising cyber threats like UPI fraud and phishing. This checklist offers 10 actionable prevention tips.
+
+Use strong, unique passwords (12+ characters with letters, numbers, symbols) for all accounts; enable two-factor authentication (2FA) everywhere.
+
+Never share OTPs, PINs, or UPI credentials, even with "bank officials" calling—legitimate ones never ask.
+
+Verify UPI requests before approving; check sender details and amount match exactly to avoid QR phishing scams.
+
+Download apps only from Google Play Store or official sources; avoid sideloading APKs from WhatsApp forwards.
+
+Keep your phone and apps updated automatically for security patches against common college-shared malware.
+
+Avoid public Wi-Fi for banking or UPI; use mobile data or VPN apps like EduVPN for campus networks.
+
+Don't click unsolicited links in SMS/email claiming prizes or refunds—forward suspicious UPI messages to 14448 (SANCHAR Saathi).
+
+Log out of UPI apps after transactions; use biometric locks and enable transaction limits (e.g., ₹5,000/day).
+
+Report incidents immediately to National Cyber Crime Portal (cybercrime.gov.in) or Helpline 1930.
+
